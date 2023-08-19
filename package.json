@@ -1,0 +1,15 @@
+
+{
+  "name": "giftcard-app",
+  "version": "1.0.0",
+  "description": "A simple app to create and redeem rare pepe gift cards.",
+  "main": "giftcard.js",
+  "scripts": {
+    "start": "node giftcard.js"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "randombytes": "^2.1.0",
+    "mnemonic": "^1.0.0"
+  }
+}
